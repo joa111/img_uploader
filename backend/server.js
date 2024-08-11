@@ -9,10 +9,10 @@ app.use(cors());
 app.use(express.json());
 
 const db = mysql.createConnection({
-    host : "localhost",    
-    user: "root",
+    host : "???",    
+    user: "???",
     password: "",
-    database: "img_app"
+    database: "your_dbname"
 });
 
 db.connect((err) => {
