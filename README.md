@@ -1,5 +1,3 @@
 import database (name : img_app)
-
-npm install express mysql codem multer
-
+Install Dependencies: Express, MySQL, Multer, Cors, Path, Axios
 create 'uploads' directory in backend folder
